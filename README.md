@@ -18,3 +18,5 @@ a simple vim like text editor in linux written in bash script
   - view file in the terminal
   - edit text in the file, insertion and deletion allowed
   - save file edited
+
+![](./myvim.gif)
